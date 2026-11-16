@@ -40,7 +40,7 @@ npm install
 npm run dev
 ```
 
-เปิด http://localhost:5173
+เปิด (https://MrTime-Create.github.io/Python)
 
 ## 📁 โครงสร้าง
 
